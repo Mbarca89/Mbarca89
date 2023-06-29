@@ -21,5 +21,6 @@ Technologies:
 </p>
 
 Contact information:
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128" xml:space="preserve"><path style="fill:#191919" d="M26.526 13.021H0v101.958h19.376v-81.71l7.189-20.209-.039-.039zm101.474 0v101.958h-19.376V33.25L64 77.873 23.077 36.97l6.821-20.578 34.083 34.083 37.454-37.454H128z"/></svg>
+![Icon](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiBzdHlsZT0iZW5hYmxlLmJhY2tncm91bmQ6bmV3IDAgMCAxMjggMTI4IiB4bWxucz0ic3BhY2U9ImVubGFuZyI+PHA8c3R5bGU9ImZpbGw6IzE5MTkxOSIgZD0iTTI2LjUyNiAxMy4wMjFIQjB2MTAxLjk1OGgtMTkuMzc2djg0LjA2em0xMDEuNDc0IDB2MTAxLjk1OGgtMTkuMzc2djMzLjI1TDY0IDc3Ljg3MyAyMy4wNzcgMzYuOTcgMjMuMDc3IDE2LjgyMSA0MC4wMzkgMzQuMDgzIDM0LjA4MyAzNC4wODMgMzQuMDgzIDE4LjAwMHoiLz48L3N2Zz4=)
+
 mauriciobarca1989@gmail.com
