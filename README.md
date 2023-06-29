@@ -11,7 +11,13 @@
 
 <h3 align="left">📫 How to reach me:</h3>
 
- Please fell free to contact me any time at my email: **mauriciobarca1989@gmail.com**
+- Please fell free to contact me any time at my email: **mauriciobarca1989@gmail.com**
+
+ <h3 align="left">Take a look at my Portfolio:</h3>
+
+- Here i showcase my tech skills and some projects i've worked on:
+
+**https://portfolio-one-iota-90.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
