@@ -21,5 +21,5 @@ Technologies:
 </p>
 
 Contact information:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mbarca89/?locale=en_US) 
-url('data:image/svg+xml;charset=utf-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%2264%22%20height%3D%2264%22%3E%3Crect%20width%3D%22100%25%22%20height%3D%22100%25%22%20fill%3D%22transparent%22%2F%3E%3Ctext%20fill%3D%22hsla(0%2C%20100%25%2C%20100%25%2C%200.08)%22%20x%3D%2250%25%22%20y%3D%2250%25%22%20font-size%3D%2248%22%20font-weight%3D%22normal%22%20text-anchor%3D%22middle%22%20font-family%3D%22%26quot%3BInter%20var%26quot%3B%2C%20-apple-system%2C%20BlinkMacSystemFont%2C%20%26quot%3BSegoe%20UI%26quot%3B%22%20dominant-baseline%3D%22central%22%3E%E2%9C%89%3C%2Ftext%3E%3C%2Fsvg%3E'): mauriciobarca1989@gmail.com
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" style="enable-background:new 0 0 128 128" xml:space="preserve"><path style="fill:#191919" d="M26.526 13.021H0v101.958h19.376v-81.71l7.189-20.209-.039-.039zm101.474 0v101.958h-19.376V33.25L64 77.873 23.077 36.97l6.821-20.578 34.083 34.083 37.454-37.454H128z"/></svg>
+mauriciobarca1989@gmail.com
