@@ -13,14 +13,12 @@ The best of me?
 I am completely responsible in everything I do, motivated and passionate about doing what I love, always seeking that personal satisfaction of solving a problem and self-improvement.
 
 Technologies: 
-JavaScript
-CSS
-React.js
-Node.js
-Express.js
-PostgreSQL
-Sequelize
-GIT
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,redux,nodejs,express,postgres,sequelize,mongodb, git" />
+  </a>
+</p>
 
 Contact information:
 Email: mauriciobarca1989@gmail.com
